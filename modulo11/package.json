@@ -1,0 +1,13 @@
+{
+  "name": "appcompleta",
+  "version": "1.0.0",
+  "description": "App completa con MongoDB y HBS",
+  "type": "module",
+  "main": "index.js",
+  "author": "esti",
+  "license": "MIT",
+  "scripts": {
+  "start": "node index.js",
+  "dev": "nodemon index.js"
+  }
+}
