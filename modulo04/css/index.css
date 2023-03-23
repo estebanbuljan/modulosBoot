@@ -1,0 +1,36 @@
+
+
+@font-face {
+    font-family: miEstilo;
+    src: url("../fuentes/Blueberry01.otf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: miTexto;
+    src: url("../fuentes/Blueberry02.ttf");
+    font-weight: 900;
+}
+
+h1{
+    font-family: miEstilo, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    color: #0000ff;
+}
+
+h2{
+    font-family: miTexto;
+    font-weight: 900;
+    color: #00ffff;
+}
+
+h2{
+    font-family: miTexto;
+    font-weight: 900;
+    color: #00ffff;
+}
+
+
+@media screen {
+    
+}
